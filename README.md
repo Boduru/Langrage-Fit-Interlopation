@@ -1,5 +1,5 @@
 # Langrage-fit-interlopation <br>
-Utility : Simple program that computes for every given point the polynomial equation that reach all of them.<br>
+Utility : Simple program that computes for every given point the polynomial equation that reaches all of them.<br>
 Python version : 3.X.X<br>
 Dependencies : sympy Python Package<br>
 Inputs : list of points that you want to be reached<br>
