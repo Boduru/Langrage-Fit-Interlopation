@@ -1,4 +1,4 @@
-# Langrage-fit-interlopation <br>
+# Langrage Fit Interlopation <br>
 Program that computes for every given point the polynomial equation that reaches all of them.
 
 Inputs : list of points that you want to reach
