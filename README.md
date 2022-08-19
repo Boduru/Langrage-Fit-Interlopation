@@ -1,10 +1,10 @@
 # Langrage Fit Interlopation <br>
-Program that computes for every given point the polynomial equation that reaches all of them.
+Compute a curve that reaches all the given points.
 
-Inputs : list of points that you want to reach
+Inputs : list of the points that you want the curve to reach
 
 
-Method : the program uses the Langrage Interpolation method to find the correct polynomial equation that fits the given points
+Method : the program uses the Langrage Interpolation Method to find the fitting curve.
 
 
 ## Dependencies
